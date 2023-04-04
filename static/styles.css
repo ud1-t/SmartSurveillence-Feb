@@ -1,0 +1,26 @@
+
+body {
+    background-color: #010101;
+    width: 1400px;
+}
+
+#image1 {
+    width: 1400px;
+    margin: 40px auto auto 140px;
+}
+
+#image2 {
+    width: 1400px;
+    margin: 120px auto auto 140px;
+}
+.camera-screen{
+    display: flex;
+    /* align-items: center;
+    justify-content:center; */
+    
+}
+/* CAMERA */
+#camera
+{
+    width:60%;
+}
